@@ -22,8 +22,7 @@ public class QuartoExercicio {
                 %% de RJ: %.2f
                 %% de MG: %.2f
                 %% de ES: %.2f
-                %% dos Outros: %.2f
-                """,porcentagemSP,porcentagemRJ,porcentagemMG,porcentagemES,porcentagemOutros);
+                %% dos Outros: %.2f""",porcentagemSP,porcentagemRJ,porcentagemMG,porcentagemES,porcentagemOutros);
     }
 
 

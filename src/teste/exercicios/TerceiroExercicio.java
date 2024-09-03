@@ -36,7 +36,6 @@ public class TerceiroExercicio {
         System.out.printf("""
                 O menor faturamento foi: %.2f
                 O maior faturamento foi: %.2f
-                Dias acima da média: %d
-                """,menorFaturamento,maiorFaturamento,diasAcimaDaMedia);
+                Dias acima da média: %d""",menorFaturamento,maiorFaturamento,diasAcimaDaMedia);
     }
 }

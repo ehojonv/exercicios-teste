@@ -9,6 +9,5 @@ public class QuintoExercicio {
         for (int i = letras.length; i != 0; i--) {
             System.out.print(letras[i-1]);
         }
-        System.out.println();
     }
 }

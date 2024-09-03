@@ -9,6 +9,7 @@ public class Main {
     public static void main(String[] args) {
         int opcao = -1;
         var menu = """
+                
                 =============================================
                 Bem Vindo!
                 1. Valor da variável SOMA
@@ -51,15 +52,15 @@ public class Main {
     }
     private static void resposta1() {
         var ex1 = new PrimeiroExercicio();
-        System.out.println("O valor de SOMA é de " + ex1.resposta());
+        System.out.print("O valor de SOMA é de " + ex1.resposta());
     }
     private static void resposta2() {
         var ex2 = new SegundoExercicio();
         System.out.println("Digite o número para checar:");
         if (ex2.resposta(scanner.nextInt())) {
-            System.out.println("Esse número pertence a sequência");
+            System.out.print("Esse número pertence a sequência");
         } else {
-            System.out.println("Esse número não pertence a sequência");
+            System.out.print("Esse número não pertence a sequência");
         }
     }
     private static void resposta3() {
