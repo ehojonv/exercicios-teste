@@ -1,6 +1,7 @@
 package teste.principal;
 
 import teste.exercicios.*;
+import teste.exercicios.TerceiroExercicio.TerceiroExercicio;
 
 import java.util.Scanner;
 
