@@ -14,9 +14,11 @@ O projeto está organizado da seguinte forma:
 |-- src
 |   |-- teste
 |       |-- exercicios
+|           |-- TerceiroExercicio
+|               |--TerceiroExercicio.java
+|               |--Faturamento.java
 |           |-- PrimeiroExercicio.java
 |           |-- SegundoExercicio.java
-|           |-- TerceiroExercicio.java
 |           |-- QuartoExercicio.java
 |           |-- QuintoExercicio.java
 |       |-- Principal
